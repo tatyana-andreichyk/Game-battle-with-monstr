@@ -11,6 +11,3 @@ function Game () {
     this.gameUser = gameUser;
     this.gameMonster = gameMonster;
 }
-
-
-let firstGame = new Game();
